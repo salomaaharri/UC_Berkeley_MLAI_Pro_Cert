@@ -1,0 +1,63 @@
+
+assignment_5_1_starter/prompt.ipynb
+
+
+Missing Data Count: 
+
+destination                 0
+passanger                   0
+weather                     0
+temperature                 0
+time                        0
+coupon                      0
+expiration                  0
+gender                      0
+age                         0
+maritalStatus               0
+has_children                0
+education                   0
+occupation                  0
+income                      0
+car                     12576
+Bar                       107
+CoffeeHouse               217
+CarryAway                 151
+RestaurantLessThan20      130
+Restaurant20To50          189
+toCoupon_GEQ5min            0
+toCoupon_GEQ15min           0
+toCoupon_GEQ25min           0
+direction_same              0
+direction_opp               0
+Y                           0
+
+
+1. Coupon Acceptance by Type:
+
+Restaurant (<20) and Carry out & Take away are popular, indicating a preference for budget-friendly or convenient options.
+Bar and Restaurant (20-50) are less favored, seen as occasional or luxury choices.
+Coffee House rates are moderate; cultural norms, daily habits, or offer timings might play roles.
+
+2. Influence of Passengers on Acceptance:
+
+Drivers with company, whether Friend(s), Kid(s), or Partner, accept more coupons than solo drivers. Social settings impact dining decisions.
+
+3. Occupation-Based Acceptance:
+
+Jobs like Protective Service, Construction & Extraction, and Life Physical Social Science show high acceptance. Various factors like job nature or work hours can explain this.
+Lower rates are seen in Building & Grounds Cleaning & Maintenance, Legal, and Farming Fishing & Forestry, hinting at distinct lifestyles or priorities.
+
+4. Acceptance According to Income:
+
+Data shows no clear link between income and coupon acceptance. Both low (e.g., Less than $12500 and $12500 - $24999) and some mid-range incomes (e.g., $50000 - $62499) accept more.
+The $87500 - $99999 group is less receptive. Their dining values might differ from the offers.
+Middle incomes, notably $50000 - $62499, seem open to coupon offers.
+
+Conclusions:
+
+Dining Choices: Budget-friendly or takeaway options appeal to many.
+Social Interactions: Coupons might be more effective for groups or couples.
+Work Patterns: Certain jobs might lean towards eating out; offers should consider this.
+Income Observations: High earnings don't necessarily mean low coupon interest. It's about matching the right offer to the income group.
+To capitalize on these findings, businesses need a targeted approach in their marketing efforts.
+
